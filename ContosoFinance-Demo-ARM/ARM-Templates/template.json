@@ -15,8 +15,7 @@
         "description": "Select Location to deploy resouces"
       }
     },
-    "ProjectName": {
-      "type": "string",
+    "ProjectName": {      "type": "string",
       "defaultValue": "NitinCIaCSTraining",
       "metadata": {
         "description": "Select name Project, all reosuces will be deployed following the naming convention using this projectname"
